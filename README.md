@@ -2,7 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ajit%20Kumar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Computer%20Vision%20Engineer%20%7C%20YOLO%20Developer%20%7C%20AI%20Enthusiast&descAlignY=53&descAlign=50" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=👋+Hello,+I'm+Ajit+Kumar!;🤖+Computer+Vision+Engineer;🎯+YOLO+|+Object+Detection+Expert;🚀+Always+Learning+New+Things!)](https://git.io/typing-svg)
+<!-- Naya - height=130 aur size thoda chhota -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=650&height=130&lines=👋+Hello,+I'm+Ajit+Kumar!;🤖+Computer+Vision+Engineer;🎯+YOLO+|+Object+Detection+Expert;🚀+Always+Learning+New+Things!)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=ajitkumar563&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="ajitkumar563" />
 
